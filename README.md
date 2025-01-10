@@ -146,18 +146,6 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
   </tr>
 </table>
 
-### 💻 My Activities
-
-<!-- activity graph heroku-app start -->
-
-<p align="center">
-  <a href="">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Morning-Star213&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"
-      width="95%" alt="activity graph">
-  </a>
-</p>
-
 <p align="center">
   <a href="https://github.com/Morning-Star213?tab=repositories"><img
       src="https://github-readme-stats.vercel.app/api?username=Morning-Star213&theme=gotham&show_icons=true&rank_icon=percentile&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
