@@ -1,6 +1,4 @@
-<p align="center">
-    <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
-</p>
+
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Morning-Star213&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
 </p>
@@ -146,15 +144,3 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/Morning-Star213?tab=repositories"><img
-      src="https://github-readme-stats.vercel.app/api?username=Morning-Star213&theme=gotham&show_icons=true&rank_icon=percentile&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
-      width="48%" height="220px" alt="@Morning-Star213's github-readme-stats" /></a>
-  <a href=""><img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morning-Star213&langs_count=10&layout=compact&theme=gotham&range=all_time&hide_border=true"
-      height="220px" alt="@Morning-Star213's wakatime stats" /></a>
-</p>
-<br/>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Morning-Star213&&style=flat-square" align="center" />
-</div>
