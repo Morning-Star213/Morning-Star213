@@ -1,8 +1,3 @@
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Morning-Star213&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
-</p>
-
 ## Blockchain & Web Developer
 
 <p style = "margin-left: 30px">
